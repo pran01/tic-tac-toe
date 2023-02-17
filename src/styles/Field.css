@@ -1,0 +1,12 @@
+.field {
+  width: 4rem;
+  height: 4rem;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(65, 188, 229);
+  font-size: 2rem;
+  font-weight: bold;
+}
+.field:active {
+  box-shadow: inset 2px 2px 4px black;
+}
